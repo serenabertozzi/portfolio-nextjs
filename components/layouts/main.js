@@ -8,7 +8,7 @@ const Main = ({ children, router }) => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>Serena Bertozzi - Portfolio</title>
       </Head>
-      <Container maxV="container.md" pt={14}>
+      <Container maxW="container.md" pt={14}>
         {children}
       </Container>
     </Box>
